@@ -1,0 +1,469 @@
+Charles Schwab 1
+AXA Advisors 1
+National Planning Corporation 1
+Edward Jones 1
+Raymond James Financial 1
+Wells Fargo Advisors 1
+LPL Financial 1
+Ameriprise Financial 1
+TD Ameritrade 1
+Wells Fargo Advisors 2
+Charles Schwab 2
+Charles Schwab 3
+Edward Jones 2
+TD Ameritrade 3
+Ameriprise Financial 2
+Ameriprise Financial 3
+TD Ameritrade 2
+Raymond James Financial 3
+Raymond James Financial 2
+AXA Advisors 3
+AXA Advisors 2
+LPL Financial 2
+National Planning Corporation 2
+Edward Jones 3
+National Planning Corporation 3
+LPL Financial 3
+Wells Fargo Advisors 3
+Wells Fargo Advisors 4
+Fidelity 4
+Charles Schwab 4
+Ameriprise Financial 4
+LPL Financial 4
+AXA Advisors 4
+Raymond James Financial 4
+TD Ameritrade 4
+National Planning Corporation 4
+Ameriprise Financial 5
+TD Ameritrade 5
+Raymond James Financial 5
+AXA Advisors 5
+LPL Financial 5
+Charles Schwab 5
+Edward Jones 5
+Wells Fargo Advisors 5
+Raymond James Financial 6
+Fidelity 6
+Edward Jones 6
+National Planning Corporation 5
+Charles Schwab 6
+Ameriprise Financial 6
+TD Ameritrade 6
+AXA Advisors 6
+LPL Financial 6
+National Planning Corporation 6
+LPL Financial 7
+Fidelity 7
+Charles Schwab 7
+Edward Jones 7
+TD Ameritrade 7
+Raymond James Financial 7
+Ameriprise Financial 7
+National Planning Corporation 7
+Wells Fargo Advisors 7
+AXA Advisors 8
+LPL Financial 8
+Fidelity 8
+Edward Jones 8
+Charles Schwab 8
+Ameriprise Financial 8
+TD Ameritrade 8
+Raymond James Financial 8
+National Planning Corporation 8
+Wells Fargo Advisors 9
+Fidelity 9
+Charles Schwab 9
+Edward Jones 9
+Ameriprise Financial 9
+TD Ameritrade 9
+Raymond James Financial 9
+AXA Advisors 9
+LPL Financial 9
+National Planning Corporation 9
+Wells Fargo Advisors 12
+Charles Schwab 10
+Edward Jones 10
+Ameriprise Financial 10
+TD Ameritrade 10
+Raymond James Financial 10
+AXA Advisors 10
+LPL Financial 10
+National Planning Corporation 10
+Wells Fargo Advisors 13
+Fidelity 10
+Fidelity 11
+Charles Schwab 11
+Edward Jones 11
+Ameriprise Financial 11
+TD Ameritrade 11
+Raymond James Financial 11
+AXA Advisors 11
+LPL Financial 11
+National Planning Corporation 11
+Charles Schwab 12
+Edward Jones 12
+Ameriprise Financial 12
+TD Ameritrade 12
+Raymond James Financial 12
+AXA Advisors 12
+LPL Financial 12
+National Planning Corporation 12
+Fidelity 12
+Fidelity 13
+Charles Schwab 13
+Edward Jones 13
+Ameriprise Financial 13
+TD Ameritrade 13
+Raymond James Financial 13
+AXA Advisors 13
+LPL Financial 13
+National Planning Corporation 13
+Fidelity 14
+Charles Schwab 14
+Edward Jones 14
+Ameriprise Financial 14
+TD Ameritrade 14
+Raymond James Financial 14
+AXA Advisors 14
+LPL Financial 14
+National Planning Corporation 14
+Charles Schwab 15
+Edward Jones 15
+Ameriprise Financial 15
+TD Ameritrade 15
+Raymond James Financial 15
+AXA Advisors 15
+LPL Financial 15
+National Planning Corporation 15
+Fidelity 15
+Charles Schwab 16
+Edward Jones 16
+Ameriprise Financial 16
+TD Ameritrade 16
+Raymond James Financial 16
+AXA Advisors 16
+LPL Financial 16
+National Planning Corporation 16
+Fidelity 16
+Fidelity 17
+Fidelity 18
+Charles Schwab 17
+Edward Jones 17
+Ameriprise Financial 17
+TD Ameritrade 17
+Raymond James Financial 17
+AXA Advisors 17
+LPL Financial 17
+National Planning Corporation 17
+Charles Schwab 18
+Edward Jones 18
+Ameriprise Financial 18
+TD Ameritrade 18
+Raymond James Financial 18
+AXA Advisors 18
+LPL Financial 18
+National Planning Corporation 18
+Wells Fargo Advisors 28
+Fidelity 19
+Charles Schwab 19
+Edward Jones 19
+Ameriprise Financial 19
+TD Ameritrade 19
+Raymond James Financial 19
+AXA Advisors 19
+LPL Financial 19
+National Planning Corporation 19
+Fidelity 20
+Charles Schwab 20
+Edward Jones 20
+Ameriprise Financial 20
+TD Ameritrade 20
+Raymond James Financial 20
+AXA Advisors 20
+LPL Financial 20
+National Planning Corporation 20
+Fidelity 21
+Charles Schwab 21
+Edward Jones 21
+Ameriprise Financial 21
+TD Ameritrade 21
+Raymond James Financial 21
+AXA Advisors 21
+LPL Financial 21
+National Planning Corporation 21
+Fidelity 22
+Charles Schwab 22
+Edward Jones 22
+Ameriprise Financial 22
+TD Ameritrade 22
+Raymond James Financial 22
+AXA Advisors 22
+LPL Financial 22
+National Planning Corporation 22
+Fidelity 23
+Charles Schwab 23
+Edward Jones 23
+Ameriprise Financial 23
+TD Ameritrade 23
+Raymond James Financial 23
+AXA Advisors 23
+LPL Financial 23
+National Planning Corporation 23
+Fidelity 23
+Charles Schwab 24
+Edward Jones 24
+Ameriprise Financial 24
+TD Ameritrade 24
+Raymond James Financial 24
+AXA Advisors 24
+LPL Financial 24
+National Planning Corporation 24
+Wells Fargo Advisors 39
+Fidelity 24
+Charles Schwab 25
+Edward Jones 25
+Ameriprise Financial 25
+TD Ameritrade 25
+Raymond James Financial 25
+AXA Advisors 25
+LPL Financial 25
+National Planning Corporation 25
+Fidelity 25
+Charles Schwab 26
+Edward Jones 26
+Ameriprise Financial 26
+TD Ameritrade 26
+Raymond James Financial 26
+AXA Advisors 26
+LPL Financial 26
+National Planning Corporation 26
+Fidelity 26
+Charles Schwab 27
+Edward Jones 27
+Ameriprise Financial 27
+TD Ameritrade 27
+Raymond James Financial 27
+AXA Advisors 27
+LPL Financial 27
+National Planning Corporation 27
+Fidelity 27
+Charles Schwab 28
+Edward Jones 28
+Ameriprise Financial 28
+TD Ameritrade 28
+Raymond James Financial 28
+AXA Advisors 28
+LPL Financial 28
+National Planning Corporation 28
+Transamerica Financial 1
+Wells Fargo Advisors 52
+Wells Fargo Advisors 53
+Wells Fargo Advisors 57
+Wells Fargo Advisors 61
+Fidelity 28
+Charles Schwab 29
+Edward Jones 29
+Ameriprise Financial 29
+TD Ameritrade 29
+Raymond James Financial 29
+AXA Advisors 29
+LPL Financial 29
+National Planning Corporation 29
+Fidelity 29
+Charles Schwab 30
+Edward Jones 30
+Ameriprise Financial 30
+TD Ameritrade 30
+Raymond James Financial 30
+AXA Advisors 30
+LPL Financial 30
+National Planning Corporation 30
+Fidelity 30
+Charles Schwab 31
+Edward Jones 31
+Ameriprise Financial 31
+TD Ameritrade 31
+Raymond James Financial 31
+AXA Advisors 31
+LPL Financial 31
+National Planning Corporation 31
+LPL Financial 32
+LPL Financial 33
+LPL Financial 34
+Fidelity 31
+Fidelity 32
+Charles Schwab 32
+Edward Jones 32
+Ameriprise Financial 32
+TD Ameritrade 32
+Raymond James Financial 32
+AXA Advisors 32
+National Planning Corporation 32
+Wells Fargo Advisors 69
+Charles Schwab 33
+Edward Jones 33
+Ameriprise Financial 33
+TD Ameritrade 33
+Raymond James Financial 33
+AXA Advisors 33
+National Planning Corporation 33
+Wells Fargo Advisors 70
+Charles Schwab 34
+Edward Jones 34
+Ameriprise Financial 34
+TD Ameritrade 34
+Raymond James Financial 34
+AXA Advisors 34
+National Planning Corporation 34
+Fidelity 33
+Wells Fargo Advisors 74
+Wells Fargo Advisors 78
+Fidelity 34
+Charles Schwab 35
+Edward Jones 35
+Ameriprise Financial 35
+TD Ameritrade 35
+Raymond James Financial 35
+AXA Advisors 35
+LPL Financial 35
+National Planning Corporation 35
+Fidelity 35
+Charles Schwab 36
+Edward Jones 36
+Ameriprise Financial 36
+TD Ameritrade 36
+Raymond James Financial 36
+AXA Advisors 36
+LPL Financial 36
+National Planning Corporation 36
+Wells Fargo Advisors 80
+Fidelity 36
+Charles Schwab 37
+Edward Jones 37
+Ameriprise Financial 37
+TD Ameritrade 37
+Raymond James Financial 37
+AXA Advisors 37
+LPL Financial 37
+National Planning Corporation 37
+Fidelity 37
+Charles Schwab 38
+Edward Jones 38
+Ameriprise Financial 38
+TD Ameritrade 38
+Raymond James Financial 38
+AXA Advisors 38
+LPL Financial 38
+National Planning Corporation 38
+Fidelity 38
+Charles Schwab 39
+Edward Jones 39
+Ameriprise Financial 39
+TD Ameritrade 39
+Raymond James Financial 39
+AXA Advisors 39
+LPL Financial 39
+National Planning Corporation 39
+Fidelity 39
+Charles Schwab 40
+Edward Jones 40
+Ameriprise Financial 40
+TD Ameritrade 40
+Raymond James Financial 40
+AXA Advisors 40
+LPL Financial 40
+National Planning Corporation 40
+Fidelity 40
+Charles Schwab 41
+Raymond James Financial 41
+TD Ameritrade 41
+Ameriprise Financial 41
+Edward Jones 41
+Wells Fargo Advisors 85
+National Planning Corporation 41
+LPL Financial 41
+AXA Advisors 41
+Waddell & Reed 1
+Fidelity 41
+Edward Jones 42
+TD Ameritrade 42
+Raymond James Financial 42
+AXA Advisors 42
+LPL Financial 42
+Charles Schwab 42
+Ameriprise Financial 42
+National Planning Corporation 42
+Ameriprise Financial 43
+AXA Advisors 43
+National Planning Corporation 43
+LPL Financial 43
+Raymond James Financial 43
+TD Ameritrade 43
+Edward Jones 43
+Charles Schwab 43
+Fidelity 42
+Waddell & Reed 2
+Raymond James Financial 44
+AXA Advisors 44
+TD Ameritrade 44
+Ameriprise Financial 44
+Edward Jones 44
+Charles Schwab 44
+Fidelity 43
+LPL Financial 44
+National Planning Corporation 44
+Ameriprise Financial 45
+Edward Jones 45
+Charles Schwab 45
+Fidelity 44
+National Planning Corporation 45
+LPL Financial 45
+AXA Advisors 45
+Raymond James Financial 45
+TD Ameritrade 45
+AXA Advisors 46
+Raymond James Financial 46
+TD Ameritrade 46
+Ameriprise Financial 46
+Edward Jones 46
+Charles Schwab 46
+Fidelity 45
+National Planning Corporation 46
+LPL Financial 46
+AXA Advisors 47
+Charles Schwab 47
+Ameriprise Financial 47
+Raymond James Financial 47
+TD Ameritrade 47
+Edward Jones 47
+Fidelity 46
+National Planning Corporation 47
+LPL Financial 47
+Edward Jones 48
+Raymond James Financial 48
+Ameriprise Financial 48
+National Planning Corporation 48
+LPL Financial 48
+AXA Advisors 48
+Charles Schwab 48
+TD Ameritrade 48
+Fidelity 47
+LPL Financial 49
+National Planning Corporation 49
+Fidelity 48
+Raymond James Financial 49
+TD Ameritrade 49
+Ameriprise Financial 49
+Edward Jones 49
+Charles Schwab 49
+AXA Advisors 49
+Ameriprise Financial 50
+Raymond James Financial 50
+LPL Financial 50
+National Planning Corporation 50
+Fidelity 49
+Charles Schwab 50
+AXA Advisors 50
+Fidelity 50
+Charles Schwab 51
+Edward Jones 50
